@@ -22,29 +22,4 @@
     "name": "CHICKEN FINGER SANDWICH",
     "price": 4.00,
     "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70461/image?density=3&height=300&width=420"
-  },
-  {
-    "name": "FINGERZ BOXED LUNCH",
-    "price": 3.25,
-    "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70463/image?density=3&height=300&width=420"
-  },
-  {
-    "name": "HOUSE ZALAD BOXED",
-    "price": 5.49,
-    "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70465/image?density=3&height=300&width=420"
-  },
-  {
-    "name": "COBB ZALAD BOXED",
-    "price": 3.99,
-    "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70468/image?density=3&height=300&width=420"
-  },
-  {
-    "name": "COOKIE AND BROWNIE ",
-    "price": 8.09,
-    "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70543/image?density=3&height=300&width=420"
-  },
-  {
-    "name": "BROWNIE PLATTER",
-    "price": 6.49,
-    "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70540/image?density=3&height=300&width=420"
   }]
